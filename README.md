@@ -11,7 +11,7 @@ Jupyter Notebook
 
 ## The data cleaning process involved the following steps:
 
-Read in the crowdfunding.xslx file using the pandas library and put data into a dataframe.
+Read in the crowdfunding.xlsx file using the pandas library and put data into a dataframe.
 Split the Category and Subcategory column into two separate columns. 
 Create separate dataframes for Category and Subcategory. Each dataframe will have two columns one listing the category or subcategory and the other with an ID column create using pandas. Use images below as an example.
 
@@ -34,7 +34,7 @@ For the database you should use postgres. Create a new database titled crowdfund
 
 ETL_Mini_Project_JFabricatore.ipynb: Jupyter notebook containing the Python code for importanting and cleaning process.
 crowdfunding_db_schema_sql: SQL file containing the code for creating tables in Postgres.
-Resources: Folder containing the two raw data xslx files and the four cleaned data frames that were exported.
+Resources: Folder containing the two raw data xlsx files and the four cleaned data frames that were exported.
 Images: Folder containg all images used in the readme and examples of the postgres tables properly imported. 
 
 
