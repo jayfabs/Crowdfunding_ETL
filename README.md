@@ -32,10 +32,10 @@ For the database you should use postgres. Create a new database titled crowdfund
 
 ## Files included
 
-ETL_Mini_Project_JFabricatore.ipynb: Jupyter notebook containing the Python code for importanting and cleaning process.
-crowdfunding_db_schema_sql: SQL file containing the code for creating tables in Postgres.
-Resources: Folder containing the two raw data xlsx files and the four cleaned data frames that were exported.
-Images: Folder containg all images used in the readme and examples of the postgres tables properly imported. 
+* ETL_Mini_Project_JFabricatore.ipynb: Jupyter notebook containing the Python code for importanting and cleaning process.
+* crowdfunding_db_schema_sql: SQL file containing the code for creating tables in Postgres.
+* Resources: Folder containing the two raw data xlsx files and the four cleaned data frames that were exported.
+* Images: Folder containg all images used in the readme and examples of the postgres tables properly imported. 
 
 
 ## Conclusion
